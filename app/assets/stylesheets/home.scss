@@ -1,0 +1,35 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+body{
+  padding: 20px;
+  margin: 0px auto;
+  width: 960px;
+  height: 700px;
+  background: #E9E9E9;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  color: #333;
+}
+body table {
+  background: #fff;
+  box-shadow: 2px 2px 3px 0 #d0d0d0;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 26px;
+  padding: 20px;
+  margin: 0px auto;
+  width: 960px;
+  height: 700px;
+}
+table .user-name{
+  color: #000000;
+}
+table .right-menu li{
+  color: #1464f6
+}
+table .image-section{
+  width: 488px;
+  height: 488px;
+}
